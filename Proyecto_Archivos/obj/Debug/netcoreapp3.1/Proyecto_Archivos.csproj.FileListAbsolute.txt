@@ -1,0 +1,11 @@
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.exe
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.deps.json
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.runtimeconfig.json
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.runtimeconfig.dev.json
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.dll
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\bin\Debug\netcoreapp3.1\Proyecto_Archivos.pdb
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\obj\Debug\netcoreapp3.1\Proyecto_Archivos.csprojAssemblyReference.cache
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\obj\Debug\netcoreapp3.1\Proyecto_Archivos.AssemblyInfoInputs.cache
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\obj\Debug\netcoreapp3.1\Proyecto_Archivos.AssemblyInfo.cs
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\obj\Debug\netcoreapp3.1\Proyecto_Archivos.dll
+C:\Users\Krist\source\repos\Proyecto_Archivos\Proyecto_Archivos\obj\Debug\netcoreapp3.1\Proyecto_Archivos.pdb
