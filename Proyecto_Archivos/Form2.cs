@@ -13,6 +13,7 @@ namespace Proyecto_Archivos
         public Form2()
         {
             InitializeComponent();
+            //hola
         }
     }
 }
